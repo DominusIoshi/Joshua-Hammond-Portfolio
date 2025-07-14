@@ -5,9 +5,9 @@
 
 
 ##Skills
-CAD: SolidWorks, NX
-Coding: MATLAB, Python
-MBSE: Magicdraw / Cameo Systems Modeler
+CAD: SolidWorks, NX;
+Coding: MATLAB, Python;
+MBSE: Magicdraw / Cameo Systems Modeler;
 Currently studying for SolidWorks CSWP and OMG OCSMP Model User certifications
 
 
